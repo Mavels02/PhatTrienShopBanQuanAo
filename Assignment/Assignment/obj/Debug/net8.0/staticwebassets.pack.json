@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\LZKangAutumnLosseFitting.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\LZKangAutumnLosseFitting.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\TrangPhucCongSoHienDai.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\TrangPhucCongSoHienDai.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\Trangphucduongpho.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\Trangphucduongpho.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\WashedVintageT-Shirt.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\WashedVintageT-Shirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\aohoodiexanhlacay.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\aohoodiexanhlacay.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\aojean-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\aojean-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\aokhoatK2.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\aokhoatK2.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nam\\aotayngan-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nam\\aotayngan-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nu\\Blusas-Pink.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nu\\Blusas-Pink.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nu\\BrooklynLetterPrintTShirt.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nu\\BrooklynLetterPrintTShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nu\\RainbowColorful.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nu\\RainbowColorful.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nu\\Short-SleevedShirt.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nu\\Short-SleevedShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nu\\SleeveCrop.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nu\\SleeveCrop.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Ao\\Nu\\SleeveShirt.png",
+      "PackagePath": "staticwebassets\\Images\\Ao\\Nu\\SleeveShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\ApplywCasualSimpleShorts.png",
+      "PackagePath": "staticwebassets\\Images\\ApplywCasualSimpleShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\BlankTechCargoShorts.png",
+      "PackagePath": "staticwebassets\\Images\\BlankTechCargoShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Blusas-Pink.png",
+      "PackagePath": "staticwebassets\\Images\\Blusas-Pink.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\BrooklynLetterPrintTShirt.png",
+      "PackagePath": "staticwebassets\\Images\\BrooklynLetterPrintTShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\CasquetteAviateurVintage.png",
+      "PackagePath": "staticwebassets\\Images\\CasquetteAviateurVintage.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\CasualSoldLinenPants.png",
+      "PackagePath": "staticwebassets\\Images\\CasualSoldLinenPants.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\CompactCrossbodyTravelBag.png",
+      "PackagePath": "staticwebassets\\Images\\CompactCrossbodyTravelBag.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\CottonWovenTrousers.png",
+      "PackagePath": "staticwebassets\\Images\\CottonWovenTrousers.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DaisyEmbroideryBaseballCapHat.png",
+      "PackagePath": "staticwebassets\\Images\\DaisyEmbroideryBaseballCapHat.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DemoHome\\aohoodiexanhlacay.png",
+      "PackagePath": "staticwebassets\\Images\\DemoHome\\aohoodiexanhlacay.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DemoHome\\aojean-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Images\\DemoHome\\aojean-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DemoHome\\aokhoatK2.png",
+      "PackagePath": "staticwebassets\\Images\\DemoHome\\aokhoatK2.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DemoHome\\aotayngan-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Images\\DemoHome\\aotayngan-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DemoHome\\doboaotaynganquandui.png",
+      "PackagePath": "staticwebassets\\Images\\DemoHome\\doboaotaynganquandui.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DemoHome\\vaytranghoatiet.png",
+      "PackagePath": "staticwebassets\\Images\\DemoHome\\vaytranghoatiet.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DiagonalFemaleBag.png",
+      "PackagePath": "staticwebassets\\Images\\DiagonalFemaleBag.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\DressJeans.png",
+      "PackagePath": "staticwebassets\\Images\\DressJeans.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\EdwardMenUtility.png",
+      "PackagePath": "staticwebassets\\Images\\EdwardMenUtility.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\EgirlStreetwear.png",
+      "PackagePath": "staticwebassets\\Images\\EgirlStreetwear.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\ElasticHighWaistTrousers.png",
+      "PackagePath": "staticwebassets\\Images\\ElasticHighWaistTrousers.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\GioiThieu\\Doitradedang.png",
+      "PackagePath": "staticwebassets\\Images\\GioiThieu\\Doitradedang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\GioiThieu\\Giaohangnhanhchong.png",
+      "PackagePath": "staticwebassets\\Images\\GioiThieu\\Giaohangnhanhchong.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\GioiThieu\\Sanphamdadang.png",
+      "PackagePath": "staticwebassets\\Images\\GioiThieu\\Sanphamdadang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\KhanQuangCo.png",
+      "PackagePath": "staticwebassets\\Images\\KhanQuangCo.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\LZKangAutumnLosseFitting.png",
+      "PackagePath": "staticwebassets\\Images\\LZKangAutumnLosseFitting.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\LogoHome\\lam-logo-ban-hang-online-dep.jpg",
+      "PackagePath": "staticwebassets\\Images\\LogoHome\\lam-logo-ban-hang-online-dep.jpg"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\LogoHome\\logofooter.png",
+      "PackagePath": "staticwebassets\\Images\\LogoHome\\logofooter.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\MallwalWomenShorts.png",
+      "PackagePath": "staticwebassets\\Images\\MallwalWomenShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Men_sRealLeatherRatchetDressBelt.png",
+      "PackagePath": "staticwebassets\\Images\\Men_sRealLeatherRatchetDressBelt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(1).png",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(1).png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(2).png",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(2).png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(3).png",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(3).png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(4).png",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(4).png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(5).jpg",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(5).jpg"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(6).jpg",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(6).jpg"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(7).jpg",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(7).jpg"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PanelHome\\panel(8).jpg",
+      "PackagePath": "staticwebassets\\Images\\PanelHome\\panel(8).jpg"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nam\\CasquetteAviateurVintage.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nam\\CasquetteAviateurVintage.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nam\\CompactCrossbodyTravelBag.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nam\\CompactCrossbodyTravelBag.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nam\\Men_sRealLeatherRatchetDressBelt.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nam\\Men_sRealLeatherRatchetDressBelt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nam\\QuartzWatch-CRRJU2271.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nam\\QuartzWatch-CRRJU2271.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nam\\ToddlerKidsRoundFrameFashionGlasses.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nam\\ToddlerKidsRoundFrameFashionGlasses.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nam\\UnlinedGlovesPunk.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nam\\UnlinedGlovesPunk.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nu\\DaisyEmbroideryBaseballCapHat.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nu\\DaisyEmbroideryBaseballCapHat.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nu\\DiagonalFemaleBag.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nu\\DiagonalFemaleBag.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nu\\DressJeans.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nu\\DressJeans.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nu\\KhanQuangCo.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nu\\KhanQuangCo.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nu\\RimlessIrregularRectangleTitaniumEyeglasses.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nu\\RimlessIrregularRectangleTitaniumEyeglasses.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nu\\SmallAndExquisiteWomen_sRetroWatch.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nu\\SmallAndExquisiteWomen_sRetroWatch.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\PhuKien\\Nu\\StrapMaryJaneShoes.png",
+      "PackagePath": "staticwebassets\\Images\\PhuKien\\Nu\\StrapMaryJaneShoes.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nam\\BlankTechCargoShorts.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nam\\BlankTechCargoShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nam\\CasualSoldLinenPants.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nam\\CasualSoldLinenPants.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nam\\EdwardMenUtility.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nam\\EdwardMenUtility.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nam\\SummerMenBlackShorts.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nam\\SummerMenBlackShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nam\\SummerMenCargoMultiPocketCottonShorts.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nam\\SummerMenCargoMultiPocketCottonShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nam\\WideLegsJeans.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nam\\WideLegsJeans.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nu\\ApplywCasualSimpleShorts.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nu\\ApplywCasualSimpleShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nu\\CottonWovenTrousers.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nu\\CottonWovenTrousers.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nu\\EgirlStreetwear.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nu\\EgirlStreetwear.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nu\\ElasticHighWaistTrousers.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nu\\ElasticHighWaistTrousers.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nu\\MallwalWomenShorts.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nu\\MallwalWomenShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Quan\\Nu\\VintageKhaki.png",
+      "PackagePath": "staticwebassets\\Images\\Quan\\Nu\\VintageKhaki.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\QuartzWatch-CRRJU2271.png",
+      "PackagePath": "staticwebassets\\Images\\QuartzWatch-CRRJU2271.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\RainbowColorful.png",
+      "PackagePath": "staticwebassets\\Images\\RainbowColorful.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\RimlessIrregularRectangleTitaniumEyeglasses.png",
+      "PackagePath": "staticwebassets\\Images\\RimlessIrregularRectangleTitaniumEyeglasses.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Short-SleevedShirt.png",
+      "PackagePath": "staticwebassets\\Images\\Short-SleevedShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\SleeveCrop.png",
+      "PackagePath": "staticwebassets\\Images\\SleeveCrop.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\SleeveShirt.png",
+      "PackagePath": "staticwebassets\\Images\\SleeveShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\SmallAndExquisiteWomen_sRetroWatch.png",
+      "PackagePath": "staticwebassets\\Images\\SmallAndExquisiteWomen_sRetroWatch.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\StrapMaryJaneShoes.png",
+      "PackagePath": "staticwebassets\\Images\\StrapMaryJaneShoes.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\SummerMenBlackShorts.png",
+      "PackagePath": "staticwebassets\\Images\\SummerMenBlackShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\SummerMenCargoMultiPocketCottonShorts.png",
+      "PackagePath": "staticwebassets\\Images\\SummerMenCargoMultiPocketCottonShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\ToddlerKidsRoundFrameFashionGlasses.png",
+      "PackagePath": "staticwebassets\\Images\\ToddlerKidsRoundFrameFashionGlasses.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\TrangPhucCongSoHienDai.png",
+      "PackagePath": "staticwebassets\\Images\\TrangPhucCongSoHienDai.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\Trangphucduongpho.png",
+      "PackagePath": "staticwebassets\\Images\\Trangphucduongpho.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\UnlinedGlovesPunk.png",
+      "PackagePath": "staticwebassets\\Images\\UnlinedGlovesPunk.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\VintageKhaki.png",
+      "PackagePath": "staticwebassets\\Images\\VintageKhaki.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\WashedVintageT-Shirt.png",
+      "PackagePath": "staticwebassets\\Images\\WashedVintageT-Shirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\WideLegsJeans.png",
+      "PackagePath": "staticwebassets\\Images\\WideLegsJeans.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\aohoodiexanhlacay.png",
+      "PackagePath": "staticwebassets\\Images\\aohoodiexanhlacay.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\aojean-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Images\\aojean-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\aokhoatK2.png",
+      "PackagePath": "staticwebassets\\Images\\aokhoatK2.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Images\\aotayngan-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Images\\aotayngan-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\ApplywCasualSimpleShorts.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\ApplywCasualSimpleShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\BlankTechCargoShorts.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\BlankTechCargoShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\Blusas-Pink.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\Blusas-Pink.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\BrooklynLetterPrintTShirt.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\BrooklynLetterPrintTShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\CasquetteAviateurVintage.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\CasquetteAviateurVintage.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\CasualSoldLinenPants.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\CasualSoldLinenPants.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\CompactCrossbodyTravelBag.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\CompactCrossbodyTravelBag.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\CottonWovenTrousers.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\CottonWovenTrousers.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\DaisyEmbroideryBaseballCapHat.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\DaisyEmbroideryBaseballCapHat.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\DiagonalFemaleBag.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\DiagonalFemaleBag.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\DressJeans.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\DressJeans.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\EdwardMenUtility.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\EdwardMenUtility.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\EgirlStreetwear.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\EgirlStreetwear.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\ElasticHighWaistTrousers.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\ElasticHighWaistTrousers.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\KhanQuangCo.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\KhanQuangCo.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\LZKangAutumnLosseFitting.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\LZKangAutumnLosseFitting.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\MallwalWomenShorts.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\MallwalWomenShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\Men_sRealLeatherRatchetDressBelt.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\Men_sRealLeatherRatchetDressBelt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\QuartzWatch-CRRJU2271.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\QuartzWatch-CRRJU2271.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\RainbowColorful.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\RainbowColorful.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\RimlessIrregularRectangleTitaniumEyeglasses.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\RimlessIrregularRectangleTitaniumEyeglasses.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\Short-SleevedShirt.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\Short-SleevedShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\SleeveCrop.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\SleeveCrop.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\SleeveShirt.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\SleeveShirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\SmallAndExquisiteWomen_sRetroWatch.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\SmallAndExquisiteWomen_sRetroWatch.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\StrapMaryJaneShoes.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\StrapMaryJaneShoes.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\SummerMenBlackShorts.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\SummerMenBlackShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\SummerMenCargoMultiPocketCottonShorts.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\SummerMenCargoMultiPocketCottonShorts.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\ToddlerKidsRoundFrameFashionGlasses.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\ToddlerKidsRoundFrameFashionGlasses.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\TrangPhucCongSoHienDai.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\TrangPhucCongSoHienDai.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\Trangphucduongpho.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\Trangphucduongpho.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\UnlinedGlovesPunk.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\UnlinedGlovesPunk.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\VintageKhaki.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\VintageKhaki.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\WashedVintageT-Shirt.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\WashedVintageT-Shirt.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\WideLegsJeans.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\WideLegsJeans.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\aohoodiexanhlacay.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\aohoodiexanhlacay.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\aojean-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\aojean-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\aokhoatK2.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\aokhoatK2.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\Tatcahinhanh\\aotayngan-aothuntrang.png",
+      "PackagePath": "staticwebassets\\Tatcahinhanh\\aotayngan-aothuntrang.png"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\DangKy.css",
+      "PackagePath": "staticwebassets\\css\\DangKy.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\DangNhap.css",
+      "PackagePath": "staticwebassets\\css\\DangNhap.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\GioHang.css",
+      "PackagePath": "staticwebassets\\css\\GioHang.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\GioiThieu.css",
+      "PackagePath": "staticwebassets\\css\\GioiThieu.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\NutNhan.css",
+      "PackagePath": "staticwebassets\\css\\NutNhan.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\SanPham.css",
+      "PackagePath": "staticwebassets\\css\\SanPham.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\TinTuc.css",
+      "PackagePath": "staticwebassets\\css\\TinTuc.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\TrangChu.css",
+      "PackagePath": "staticwebassets\\css\\TrangChu.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment.props",
+      "PackagePath": "build\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment.props",
+      "PackagePath": "buildTransitive\\Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

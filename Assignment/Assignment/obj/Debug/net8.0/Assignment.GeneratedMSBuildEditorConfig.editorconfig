@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assignment
+build_property.RootNamespace = Assignment
+build_property.ProjectDir = E:\C#\C# 4\AssignmentFinally\Assignment\Assignment\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\C#\C# 4\AssignmentFinally\Assignment\Assignment
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/ChiTietDonHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldERvbkhhbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/ChiTietDonHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldERvbkhhbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/ChiTietDonHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldERvbkhhbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/ChiTietDonHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldERvbkhhbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/ChiTietDonHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldERvbkhhbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/DangNhap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/DonHang/AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ1xBZGRUb0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/DonHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/GioiThieu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaVRoaWV1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/SanPhams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/SanPhams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/SanPhams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/SanPhams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/SanPhams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/TinTuc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluVHVjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C\#/C\# 4/AssignmentFinally/Assignment/Assignment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y18fyt0aqx

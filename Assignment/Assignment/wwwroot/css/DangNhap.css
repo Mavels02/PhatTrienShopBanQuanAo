@@ -1,0 +1,43 @@
+﻿
+#formdangnhap h2 {
+    text-align: center;
+    color: #1e90ff;
+    margin-bottom: 20px;
+}
+
+#formdangnhap input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+#formdangnhap button {
+    width: 100%;
+    padding: 10px;
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#formdangnhap button:hover {
+    background-color: #1c86e0;
+    cursor: pointer;
+}
+
+#formdangnhap .register-link {
+    text-align: center;
+    margin-top: 15px;
+}
+
+#formdangnhap .register-link a {
+    color: #1e90ff;
+    text-decoration: none;
+}   
+
+#formdangnhap .register-link a:hover {
+    text-decoration: underline;
+}

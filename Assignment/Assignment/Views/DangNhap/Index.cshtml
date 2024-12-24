@@ -1,0 +1,69 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<style>
+
+    #formdangnhap h2 {
+        text-align: center;
+        color: #1e90ff;
+        margin-bottom: 20px;
+    }
+
+    #formdangnhap input[type="email"], input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+    }
+
+    #formdangnhap button {
+        width: 100%;
+        padding: 10px;
+        background-color: #1e90ff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+        #formdangnhap button:hover {
+            background-color: #1c86e0;
+            cursor: pointer;
+        }
+
+    #formdangnhap .register-link {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+        #formdangnhap .register-link a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+
+            #formdangnhap .register-link a:hover {
+                text-decoration: underline;
+            }
+</style>
+
+<div id="formdangnhap">
+    <h2>Đăng Nhập</h2>
+    <form method="post">
+        <input type="email" name="email" placeholder="Email" required>
+        <input type="password" name="password" placeholder="Mật khẩu" required>
+        <button type="submit">Đăng Nhập</button>
+    </form>
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+    <div class="register-link">
+        <p>Bạn chưa có tài khoản? <a asp-controller="Users" asp-action="Create">Đăng ký</a></p>
+    </div>
+</div>

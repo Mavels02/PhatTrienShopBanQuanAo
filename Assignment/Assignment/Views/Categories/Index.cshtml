@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Assignment.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="/css/NutNhan.css" />
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTaCategory)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenCategory)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTaCategory)
+            </td>
+            <td>
+                <a class="edit" asp-action="Edit" asp-route-id="@item.IdCategory">Edit</a>
+                <a class="details" asp-action="Details" asp-route-id="@item.IdCategory">Details</a>
+                <a class="delete" asp-action="Delete" asp-route-id="@item.IdCategory">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

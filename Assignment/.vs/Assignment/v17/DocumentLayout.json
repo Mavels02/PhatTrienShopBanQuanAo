@@ -1,0 +1,975 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\chitietdonhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\chitietdonhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\gioithieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\gioithieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\chitietdonhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\chitietdonhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\models\\asmc4context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\asmc4context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\chitietdonhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\chitietdonhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\chitietdonhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\chitietdonhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\gioithieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\gioithieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\dangnhap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\dangnhap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\donhang\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\donhang\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\donhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\donhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\migrations\\20240813180329_addgiabantosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\20240813180329_addgiabantosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\migrations\\20240813175906_updategiabancolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\20240813175906_updategiabancolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\migrations\\asmc4contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\asmc4contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\tintuc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\tintuc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\gioithieu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\gioithieu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|e:\\c#\\c# 4\\assignmentfinally\\assignment\\assignment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D8D7F3-2A5C-4B46-AC3B-9C6C1DDA04BA}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwH4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:02:08.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:12:20.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:14:23.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:12:00.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:47:17.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\DonHangController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\DonHangController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwFIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:19:55.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:09:37.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAkwNAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:32:43.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwIcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:46:58.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:12:14.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Category.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\Category.cs",
+              "RelativeToolTip": "Assignment\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:38:55.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:19:57.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:54:48.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChiTietDonHangsController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\ChiTietDonHangsController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\ChiTietDonHangsController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwLoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:03:37.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GioiThieuController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\GioiThieuController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\GioiThieuController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\GioiThieuController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\GioiThieuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:57:42.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TinTucController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\TinTucController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\TinTucController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\TinTucController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\TinTucController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:04:15.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\SanPhams\\Details.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Details.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\SanPhams\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:53:18.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:19:37.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:01:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\SanPham.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\SanPham.cs",
+              "RelativeToolTip": "Assignment\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:41:00.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Layout.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\Layout.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\Layout.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\Layout.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\Layout.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T10:38:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv3EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:53:02.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:33:16.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Users\\Create.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:24:07.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Assignment\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:39:03.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\DonHang.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\DonHang.cs",
+              "RelativeToolTip": "Assignment\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:39:02.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ChiTietDonHang.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\ChiTietDonHang.cs",
+              "RelativeToolTip": "Assignment\\Models\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:38:52.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:14:18.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AsmC4Context.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\AsmC4Context.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\AsmC4Context.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\AsmC4Context.cs",
+              "RelativeToolTip": "Assignment\\Models\\AsmC4Context.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:42:10.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:02:03.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T11:59:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Users\\Details.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T11:59:54.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:30:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\SanPhams\\Edit.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\SanPhams\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:53:20.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\SanPhams\\Delete.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\SanPhams\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:53:10.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T21:09:43.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GioiThieu.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\GioiThieu.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\GioiThieu.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\GioiThieu.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\GioiThieu.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T20:53:56.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\DangNhap\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\DangNhap\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\DangNhap\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\DangNhap\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T10:04:48.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DangKy.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\DangKy.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\DangKy.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\DangKy.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\DangKy.css",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:17:43.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SanPham.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\SanPham.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\SanPham.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\SanPham.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\SanPham.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:17:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DangNhap.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\DangNhap.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\DangNhap.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\DangNhap.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\DangNhap.css",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:17:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DangNhapController.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\DangNhapController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\DangNhapController.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Controllers\\DangNhapController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\DangNhapController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:04:32.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\DonHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\DonHang\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\DonHang\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\DonHang\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:36:02.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddToCart.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\DonHang\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\DonHang\\AddToCart.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\DonHang\\AddToCart.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\DonHang\\AddToCart.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:37:22.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240813180329_AddGiaBanToSanPham.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Migrations\\20240813180329_AddGiaBanToSanPham.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\20240813180329_AddGiaBanToSanPham.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Migrations\\20240813180329_AddGiaBanToSanPham.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\20240813180329_AddGiaBanToSanPham.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:05:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240813175906_UpdateGiaBanColumn.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Migrations\\20240813175906_UpdateGiaBanColumn.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\20240813175906_UpdateGiaBanColumn.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Migrations\\20240813175906_UpdateGiaBanColumn.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\20240813175906_UpdateGiaBanColumn.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:04:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AsmC4ContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Migrations\\AsmC4ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\AsmC4ContextModelSnapshot.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Migrations\\AsmC4ContextModelSnapshot.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\AsmC4ContextModelSnapshot.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA4wBsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:05:18.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:01:14.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACYAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:21:47.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\User.cs",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Models\\User.cs",
+              "RelativeToolTip": "Assignment\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:59:08.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TrangChu.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\TrangChu.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\TrangChu.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\TrangChu.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\TrangChu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:16:01.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:49:05.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:17:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TinTuc.css",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\TinTuc.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\TinTuc.css",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\wwwroot\\css\\TinTuc.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\TinTuc.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:17:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:27:16.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:27:14.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\GioiThieu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\GioiThieu\\Index.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\GioiThieu\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\GioiThieu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:58:38.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\C#\\C# 4\\AssignmentFinally\\Assignment\\Assignment\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:27:29.442Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

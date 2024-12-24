@@ -1,0 +1,146 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="/css/TrangChu.css" />
+
+@await Html.PartialAsync("~/Views/GioiThieu/Index.cshtml")
+
+<div id="Trangchu">
+    <div class="row">
+        @* Áo *@
+        <h1>ÁO</h1>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Ao/Nam/aohoodiexanhlacay.png" />
+            </div>
+            <div class="thongtin">
+                <p>Áo Hoodie</p>
+                <p>5</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Ao/Nam/aojean-aothuntrang.png" />
+            </div>
+            <div class="thongtin">
+                <p>Áo Jean - Thun Trắng</p>
+                <p>10</p>
+                <p>400.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Ao/Nu/Blusas-Pink.png" />
+            </div>
+            <div class="thongtin">
+                <p>Áo Blusas Pink</p>
+                <p>3</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Ao/Nu/RainbowColorful.png" />
+            </div>
+            <div class="thongtin">
+                <p>Áo Rainbow Colorfull</p>
+                <p>3</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <br />
+        <a asp-controller="SanPhams" asp-action="Index">Xem Thêm</a>
+        @* Quần *@
+        <h1>QUẦN</h1>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Quan/Nam/BlankTechCargoShorts.png" />
+            </div>
+            <div class="thongtin">
+                <p>Quần Blank Tech Cargo</p>
+                <p>5</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Quan/Nam/CasualSoldLinenPants.png" />
+            </div>
+            <div class="thongtin">
+                <p>Quần dài Casual Sold Linen</p>
+                <p>10</p>
+                <p>400.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Quan/Nu/ApplywCasualSimpleShorts.png" />
+            </div>
+            <div class="thongtin">
+                <p>Quần Applyw Casual Simple</p>
+                <p>3</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/Quan/Nu/CottonWovenTrousers.png" />
+            </div>
+            <div class="thongtin">
+                <p>Quần dài Cotton Woven</p>
+                <p>3</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <br />
+        <a asp-controller="SanPhams" asp-action="Index">Xem Thêm</a>
+        @* Phụ kiện *@
+        <h1>PHỤ KIỆN</h1>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/PhuKien/Nam/CompactCrossbodyTravelBag.png" />
+            </div>
+            <div class="thongtin">
+                <p>Balo Compact Crossbody Travel</p>
+                <p>5</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/PhuKien/Nam/QuartzWatch-CRRJU2271.png" />
+            </div>
+            <div class="thongtin">
+                <p>Đồng hồ thạch anh CRRJU 2271</p>
+                <p>10</p>
+                <p>400.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/PhuKien/Nu/RimlessIrregularRectangleTitaniumEyeglasses.png" />
+            </div>
+            <div class="thongtin">
+                <p>Kính Rimless Irregular Retangle Titanium</p>
+                <p>3</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <div class="col-sm-4 containProduct">
+            <div class="hinhanh">
+                <img src="/Images/PhuKien/Nu/StrapMaryJaneShoes.png" />
+            </div>
+            <div class="thongtin">
+                <p>Giày Strap Mary Jane</p>
+                <p>3</p>
+                <p>500.000đ</p>
+            </div>
+        </div>
+        <br />
+        <a asp-controller="SanPhams" asp-action="Index">Xem Thêm</a>
+    </div>
+</div>
+
+@await Html.PartialAsync("~/Views/TinTuc/Index.cshtml")

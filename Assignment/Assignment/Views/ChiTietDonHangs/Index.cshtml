@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Assignment.Models.ChiTietDonHang>
+
+@{
+    ViewData["Title"] = "Giohang";
+}
+
+<link rel="stylesheet" href="/css/NutNhan.css" />
+
+<h1>Giỏ hàng</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Số lượng mua</th>
+            <th>Giá</th>
+            <th>Tổng tiền</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.IdSanPhamNavigation.TenSanPham</td>
+                <td>@item.SoLuong</td>
+                <td>@item.GiaBan</td>
+                <td>@(item.SoLuong * item.GiaBan)</td>
+                <td>
+                    <a class="edit" asp-action="Edit" asp-route-id="@item.IdChiTietDonHang">Edit</a>
+                    <a class="details" asp-action="Details" asp-route-id="@item.IdChiTietDonHang">Details</a>
+                    <a class="delete" asp-action="Delete" asp-route-id="@item.IdChiTietDonHang">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

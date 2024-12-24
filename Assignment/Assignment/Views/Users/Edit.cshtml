@@ -1,0 +1,67 @@
+﻿@model Assignment.Models.User
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<style>
+    .form-group{
+        margin: 20px 0;
+    }
+</style>
+<h4>Thông tin cá nhân</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdUser" />
+            <div class="form-group">
+                <label asp-for="HoTen" class="control-label"></label>
+                <input asp-for="HoTen" class="form-control" />
+                <span asp-validation-for="HoTen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoDienThoai" class="control-label"></label>
+                <input asp-for="SoDienThoai" class="form-control" />
+                <span asp-validation-for="SoDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DiaChi" class="control-label"></label>
+                <input asp-for="DiaChi" class="form-control" />
+                <span asp-validation-for="DiaChi" class="text-danger"></span>
+            </div>
+            @if (User.IsInRole("Admin") || User.IsInRole("NV"))
+            {
+                <div class="form-group">
+                    <label asp-for="ChucVu" class="control-label"></label>
+                    <input asp-for="ChucVu" class="form-control" />
+                    <span asp-validation-for="ChucVu" class="text-danger"></span>
+                </div>
+            }
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (User.IsInRole("Admin") || User.IsInRole("NV"))
+{
+    <div>
+        <a asp-action="Index">Danh sách</a>
+    </div>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

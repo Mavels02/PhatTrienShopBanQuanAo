@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Assignment.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .edit, .details {
+        background-color: blue;
+    }
+
+    .delete {
+        background-color: red;
+    }
+
+    .edit, .delete, .details {
+        padding: 10px 20px;
+        border-radius: 10px;
+        color: white;
+        text-decoration: none;
+    }
+
+    .table td, .table th {
+        padding: 15px; /* Thay đổi giá trị padding để điều chỉnh khoảng cách */
+    }
+</style>
+
+<h1>Danh sách thông tin người dùng</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HoTen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoDienThoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiaChi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChucVu)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoDienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChucVu)
+            </td>
+            <td>
+                <a class="edit" asp-action="Edit" asp-route-id="@item.IdUser">Edit</a>
+                <a class="delete" asp-action="Delete" asp-route-id="@item.IdUser">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
